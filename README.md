@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EfSoren&label=Profile%20views&color=0e75b6&style=flat" alt="EfSoren Views" /> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on an E-commerce site
 - 🌱 I’m currently learning: **TypeScript**
 - 💬 Ask me about ...
 - 📫 How to reach me: Email me at ef.sorensen@icloud.com or connect on <a href="https://www.linkedin.com/in/ethan-sorensen-076324266/">LinkedIn<a/>

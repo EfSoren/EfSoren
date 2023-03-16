@@ -12,5 +12,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: Email me at ef.sorensen@icloud.com or connect on <a href="https://www.linkedin.com/in/ethan-sorensen-076324266/">LinkedIn<a/>
 - 😄 Take a look around my projects: [Repositories](https://github.com/EfSoren?tab=repositories)
-- ⚡ Fun fact: ...
+ - ⚡ View my portfolio at : <a href='https://efsoren.github.io/Portfolio/'>Portfolio</a>
 -->
